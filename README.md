@@ -1,5 +1,5 @@
 # imcalc
-Batch-based image calculations and transformations for SPM5/8/12.
+Batch-based image calculations and transformations for the SPM brain image analysis package (https://www.fil.ion.ucl.ac.uk/spm/).
 
 For full information, see http://tools.robjellis.net
 
