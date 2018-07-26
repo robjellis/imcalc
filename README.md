@@ -4,3 +4,7 @@ Batch-based image calculations and transformations for the SPM brain image analy
 For full information, see http://tools.robjellis.net
 
 For documentation, see http://robjellis.net/tools/imcalc_documentation.pdf
+
+## Sample output
+
+<imc src = 'http://robjellis.net/tools/vis_example.png'>
