@@ -1,5 +1,5 @@
 # `imcalc`
-Batch-based image calculations and transformations for the [SPM brain image analysis package](https://www.fil.ion.ucl.ac.uk/spm/).
+Batch-based image calculations and transformations of 3-D brain volumes for the [SPM](https://www.fil.ion.ucl.ac.uk/spm/) analysis package.
 
 For current version, please visit [here](http://tools.robjellis.net).
 
