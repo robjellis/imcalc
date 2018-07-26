@@ -7,4 +7,4 @@ For documentation, see http://robjellis.net/tools/imcalc_documentation.pdf
 
 ## Sample output
 
-<imc src = "vis_example.png" width="400">
+<imc src = "vis_example.jpg" width="400">
